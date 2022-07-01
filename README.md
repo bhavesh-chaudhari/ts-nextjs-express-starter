@@ -32,8 +32,8 @@ npm run dev # in both client and server directory
 ```
 
 ### 4. Environment Variables
-- Put .env file inside `server/src/config` for backend env variables. 
-- Use .env.local for env variables in next.js [`Further reading`](https://nextjs.org/docs/basic-features/environment-variables).
+- Put .env file inside `server/src/config` for backend env variables or simply rename the existing `.env.example` to `.env`. 
+- Use .env.local for env variables in nextjs.[`Further reading`](https://nextjs.org/docs/basic-features/environment-variables).
 
 ### 5. More to come...
 
